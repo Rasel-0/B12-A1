@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(105, 9, 9, 0.482);
+}
